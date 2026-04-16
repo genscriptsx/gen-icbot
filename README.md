@@ -302,7 +302,8 @@ restart genscript-bridge    # Sadece bu resource'u yeniden başlatır
 - `allowedRoles` listesine yalnızca güvendiğiniz rolleri ekleyin
 
 ---
+  Genscript Discord 
+ discord.gg/genscript 
+
 
 > **Genscript ICBOT** — Tüm hakları saklıdır.
- ** Genscript Discord **
- discord.gg/genscript 
