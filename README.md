@@ -304,3 +304,5 @@ restart genscript-bridge    # Sadece bu resource'u yeniden başlatır
 ---
 
 > **Genscript ICBOT** — Tüm hakları saklıdır.
+ ** Genscript Discord **
+ discord.gg/genscript 
